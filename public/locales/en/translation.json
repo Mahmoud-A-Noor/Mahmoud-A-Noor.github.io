@@ -1,0 +1,9 @@
+{
+    "document_title":"My Portofolio",
+    "text": "Welcome to this React Internationalization App {{date, DateFormatter}}",
+
+
+    "trees_grown_zero": "we didn't gow any tree",
+    "trees_grown_one": "We have grown one tree 🌳",
+    "trees_grown_other": "We have grown {{count, NumberFormatter}} trees 🌳"
+}

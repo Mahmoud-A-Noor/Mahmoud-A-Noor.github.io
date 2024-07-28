@@ -1,0 +1,126 @@
+:root {
+
+    /* Light Themes Colors */
+
+    --light-primary: #f3f5f7;
+    --light-secondary: #d5d9dd;
+    --light-accent: #a5aab1;
+    --light-background: #6d7278;
+    --light-text: #3c4249;
+
+    --cyberpunk-primary: #ff4d6d;
+    --cyberpunk-secondary: #00ffcc;
+    --cyberpunk-accent: #ff00ff;
+    --cyberpunk-background: #00aeff;
+    --cyberpunk-text: #ffff00;
+    
+    --sunrise-primary: #f6d4a2;
+    --sunrise-secondary: #f9aa90;
+    --sunrise-accent: #f26d50;
+    --sunrise-background: #f72d26;
+    --sunrise-text: #b21f66;
+
+    --forest-primary: #2E8B57;
+    --forest-secondary: #1C3E30;
+    --forest-accent: #80B3A1;
+    --forest-background: #D4E6D2;
+    --forest-text:  #F5F5F5;
+
+    --sea-primary: #006D77;
+    --sea-secondary: #83C5BE;
+    --sea-accent: #EDF6F9;
+    --sea-background: #FFDDD2;
+    --sea-text:  #E29578;
+
+    /* Dark Themes Colors */
+
+    --dark-primary: #1a1a1a;
+    --dark-secondary: #2e2e2e;
+    --dark-accent: #404040;
+    --dark-background: #575757;
+    --dark-text: #6e6e6e;
+
+    --modern-dark-primary: #1E1E2F;
+    --modern-dark-secondary: #FF7D7D;
+    --modern-dark-accent: #343A40;
+    --modern-dark-background: #FFD700;
+    --modern-dark-text: #4CAF50;
+
+    --dark-cyberpunk-primary: #0D0D0D;
+    --dark-cyberpunk-secondary: #1B263B;
+    --dark-cyberpunk-accent: #324A5F;
+    --dark-cyberpunk-background: #F21F3A;
+    --dark-cyberpunk-text: #FFE66D;
+
+    --ocean-primary: #001F2E;
+    --ocean-secondary: #01364D;
+    --ocean-accent: #048393;
+    --ocean-background: #059DC0;
+    --ocean-text:  #071A29;
+
+}
+
+
+
+/* Light Theme */
+.light-primary { background-color: var(--light-primary); }
+.light-secondary { background-color: var(--light-secondary); }
+.light-accent { background-color: var(--light-accent); }
+.light-background { background-color: var(--light-background); }
+.light-text { color: var(--light-text); }
+
+/* Cyberpunk Theme */
+.cyberpunk-primary { background-color: var(--cyberpunk-primary); }
+.cyberpunk-secondary { background-color: var(--cyberpunk-secondary); }
+.cyberpunk-accent { background-color: var(--cyberpunk-accent); }
+.cyberpunk-background { background-color: var(--cyberpunk-background); }
+.cyberpunk-text { color: var(--cyberpunk-text); }
+
+/* Sunrise Theme */
+.sunrise-primary { background-color: var(--sunrise-primary); }
+.sunrise-secondary { background-color: var(--sunrise-secondary); }
+.sunrise-accent { background-color: var(--sunrise-accent); }
+.sunrise-background { background-color: var(--sunrise-background); }
+.sunrise-text { color: var(--sunrise-text); }
+
+/* Forest Theme */
+.forest-primary { background-color: var(--forest-primary); }
+.forest-secondary { background-color: var(--forest-secondary); }
+.forest-accent { background-color: var(--forest-accent); }
+.forest-background { background-color: var(--forest-background); }
+.forest-text { color: var(--forest-text); }
+
+/* Sea Theme */
+.sea-primary { background-color: var(--sea-primary); }
+.sea-secondary { background-color: var(--sea-secondary); }
+.sea-accent { background-color: var(--sea-accent); }
+.sea-background { background-color: var(--sea-background); }
+.sea-text { color: var(--sea-text); }
+
+/* Dark Theme */
+.dark-primary { background-color: var(--dark-primary); }
+.dark-secondary { background-color: var(--dark-secondary); }
+.dark-accent { background-color: var(--dark-accent); }
+.dark-background { background-color: var(--dark-background); }
+.dark-text { color: var(--dark-text); }
+
+/* Modern Dark Theme */
+.modern-dark-primary { background-color: var(--modern-dark-primary); }
+.modern-dark-secondary { background-color: var(--modern-dark-secondary); }
+.modern-dark-accent { background-color: var(--modern-dark-accent); }
+.modern-dark-background { background-color: var(--modern-dark-background); }
+.modern-dark-text { color: var(--modern-dark-text); }
+
+/* Dark Cyberpunk Theme */
+.dark-cyberpunk-primary { background-color: var(--dark-cyberpunk-primary); }
+.dark-cyberpunk-secondary { background-color: var(--dark-cyberpunk-secondary); }
+.dark-cyberpunk-accent { background-color: var(--dark-cyberpunk-accent); }
+.dark-cyberpunk-background { background-color: var(--dark-cyberpunk-background); }
+.dark-cyberpunk-text { color: var(--dark-cyberpunk-text); }
+
+/* Ocean Theme */
+.ocean-primary { background-color: var(--ocean-primary); }
+.ocean-secondary { background-color: var(--ocean-secondary); }
+.ocean-accent { background-color: var(--ocean-accent); }
+.ocean-background { background-color: var(--ocean-background); }
+.ocean-text { color: var(--ocean-text); }
