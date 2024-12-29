@@ -1,10 +1,0 @@
-{
-    "document_title":"موقعي الشخصي",
-    "text": "مرحبا بكم في تطبيق ريأكت متعدد اللغات يوم {{date, DateFormatter}}",
-    "trees_grown_zero": "لم نزرع أي شجرة بعد",
-    "trees_grown_one": "لقد زرعنا شجرة واحدة 🌳",
-    "trees_grown_two": "لقد زرعنا شجرتين 🌳",
-    "trees_grown_few": "لقد زرعنا {{count, NumberFormatter}} أشجار 🌳",
-    "trees_grown_many": "لقد زرعنا {{count, NumberFormatter}} شجرة 🌳",
-    "trees_grown_other": "لقد زرعنا {{count, NumberFormatter}} شجرة 🌳"
-  }
