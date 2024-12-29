@@ -382,7 +382,8 @@ p {
 }
 
 .tech {
-  margin: 12px;
+    margin: 12px;
+    width: 100%;
 }
 
 .user {
@@ -403,6 +404,28 @@ p {
     flex-wrap: nowrap;
     font-size: 75px;
   }
+}
+
+@media only screen and (min-width: 550px) and (max-width: 1197px) {
+    .user {
+        justify-content: center;
+    }
+    .tech {
+        flex: 0 0 calc(50% - 24px); /* 2 sections per row */
+        box-sizing: border-box;
+        margin: 12px;
+    }
+}
+
+@media only screen and (max-width: 549px) {
+    .user {
+        justify-content: center;
+    }
+    .tech {
+        flex: 0 0 100%;
+        box-sizing: border-box;
+        margin: 12px 0;
+    }
 }
 
 .user-details {
